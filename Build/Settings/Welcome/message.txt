@@ -1,0 +1,3 @@
+Welcome %username%,
+
+Thank you for playing RageRP 2.5 BETA.
